@@ -10,3 +10,5 @@ Selain itu terdapat sebuah dashboard sederhana yang dibuat menggunakan streamlit
 #Cara membuka streamlit
 
 buka terminal dan masukkan kode streamlit run bike_sharing.py
+
+Proyek ini adalah tugas akhir dari sertifikasi Belajar Analisis Data Menggunakan Python oleh Coursera
