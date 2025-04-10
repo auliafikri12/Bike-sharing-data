@@ -1,6 +1,6 @@
 # Bike-Sharing-Data
 
-Analisis data penjualan sepeda Ini adalah analisis data penjualan sepeda pada suatu kota. Analisis ini menimbang data-data penunjang seperti cuaca, temperatur, dan lain-lain. Pada analisis ini akan di jawab 3 pertanyaan yaitu
+Analisis data penjualan sepeda Ini adalah analisis data penjualan sepeda pada suatu kota. Data terdapat pada bagian folder Myfolder. Analisis ini menimbang data-data penunjang seperti cuaca, temperatur, dan lain-lain. Pada analisis ini akan di jawab 3 pertanyaan yaitu
 
 1. Bagaimana penjualan satu tahun terakhir
 2. Kapan penjualan mengalami kenaikan dan penurunan?
